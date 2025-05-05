@@ -1,3 +1,6 @@
 # Ignore raw excel files
 data/raw/*
 !data/raw/.gitkeep
+# Raw AESO Excel files (too large for GitHub)
+data/raw/
+

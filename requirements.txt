@@ -3,3 +3,12 @@ pandas
 plotly
 lightgbm
 scikit-learn
+pandas
+numpy
+lightgbm
+scikit-learn
+plotly
+streamlit
+openpyxl
+xlrd
+pytest
